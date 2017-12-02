@@ -1,0 +1,5 @@
+name: LobbyPlugin
+author: ByteException
+version: 1.0
+depend: [API]
+main: net.byteexception.netcode.lobby.LobbyPlugin
